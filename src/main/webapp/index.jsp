@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Welocme to First Sample page</h2>
+<h2>Hello Welcome to First Sample Page</h2>
 </body>
 </html>
